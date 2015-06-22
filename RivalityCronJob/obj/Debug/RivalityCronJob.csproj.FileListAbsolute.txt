@@ -1,0 +1,24 @@
+D:\Internet Resource\PHP\Jahangir Project\Rivality Cron Job\RivalityCronJob\RivalityCronJob\bin\Debug\RivalityCronJob.exe
+D:\Internet Resource\PHP\Jahangir Project\Rivality Cron Job\RivalityCronJob\RivalityCronJob\bin\Debug\RivalityCronJob.pdb
+D:\Internet Resource\PHP\Jahangir Project\Rivality Cron Job\RivalityCronJob\RivalityCronJob\obj\Debug\ResolveAssemblyReference.cache
+D:\Internet Resource\PHP\Jahangir Project\Rivality Cron Job\RivalityCronJob\RivalityCronJob\obj\Debug\RivalityCronJob.ProjectInstaller.resources
+D:\Internet Resource\PHP\Jahangir Project\Rivality Cron Job\RivalityCronJob\RivalityCronJob\obj\Debug\RivalityCronJob.RivalityCronJob.resources
+D:\Internet Resource\PHP\Jahangir Project\Rivality Cron Job\RivalityCronJob\RivalityCronJob\obj\Debug\RivalityCronJob.csproj.GenerateResource.Cache
+D:\Internet Resource\PHP\Jahangir Project\Rivality Cron Job\RivalityCronJob\RivalityCronJob\obj\Debug\RivalityCronJob.exe
+D:\Internet Resource\PHP\Jahangir Project\Rivality Cron Job\RivalityCronJob\RivalityCronJob\obj\Debug\RivalityCronJob.pdb
+C:\Documents and Settings\Henrik\My Documents\RivalityCronJob2\RivalityCronJob\obj\Debug\RivalityCronJob.exe
+C:\Documents and Settings\Henrik\My Documents\RivalityCronJob2\RivalityCronJob\obj\Debug\RivalityCronJob.pdb
+C:\Documents and Settings\Henrik\My Documents\RivalityCronJob2\RivalityCronJob\bin\Debug\RivalityCronJob.exe
+C:\Documents and Settings\Henrik\My Documents\RivalityCronJob2\RivalityCronJob\bin\Debug\RivalityCronJob.pdb
+C:\Documents and Settings\Henrik\My Documents\RivalityCronJob2\RivalityCronJob\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Henrik\My Documents\RivalityCronJob2\RivalityCronJob\obj\Debug\RivalityCronJob.ProjectInstaller.resources
+C:\Documents and Settings\Henrik\My Documents\RivalityCronJob2\RivalityCronJob\obj\Debug\RivalityCronJob.RivalityCronJob.resources
+C:\Documents and Settings\Henrik\My Documents\RivalityCronJob2\RivalityCronJob\obj\Debug\RivalityCronJob.csproj.GenerateResource.Cache
+D:\Internet Resource\PHP\Jahangir Project\Rivality Cron Job\RivalityCronJobOfHenrik\RivalityCronJob\obj\Debug\RivalityCronJob.exe
+D:\Internet Resource\PHP\Jahangir Project\Rivality Cron Job\RivalityCronJobOfHenrik\RivalityCronJob\obj\Debug\RivalityCronJob.pdb
+D:\Internet Resource\PHP\Jahangir Project\Rivality Cron Job\RivalityCronJobOfHenrik\RivalityCronJob\bin\Debug\RivalityCronJob.exe
+D:\Internet Resource\PHP\Jahangir Project\Rivality Cron Job\RivalityCronJobOfHenrik\RivalityCronJob\bin\Debug\RivalityCronJob.pdb
+D:\Internet Resource\PHP\Jahangir Project\Rivality Cron Job\RivalityCronJobOfHenrik\RivalityCronJob\obj\Debug\ResolveAssemblyReference.cache
+D:\Internet Resource\PHP\Jahangir Project\Rivality Cron Job\RivalityCronJobOfHenrik\RivalityCronJob\obj\Debug\RivalityCronJob.ProjectInstaller.resources
+D:\Internet Resource\PHP\Jahangir Project\Rivality Cron Job\RivalityCronJobOfHenrik\RivalityCronJob\obj\Debug\RivalityCronJob.RivalityCronJob.resources
+D:\Internet Resource\PHP\Jahangir Project\Rivality Cron Job\RivalityCronJobOfHenrik\RivalityCronJob\obj\Debug\RivalityCronJob.csproj.GenerateResource.Cache

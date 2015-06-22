@@ -1,0 +1,13 @@
+﻿Installing assembly 'D:\Internet Resource\PHP\Jahangir Project\Rivality Cron Job\RivalityCronJob\RivalityCronJob\bin\Debug\RivalityCronJob.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Internet Resource\PHP\Jahangir Project\Rivality Cron Job\RivalityCronJob\RivalityCronJob\bin\Debug\RivalityCronJob.exe
+   logfile = D:\Internet Resource\PHP\Jahangir Project\Rivality Cron Job\RivalityCronJob\RivalityCronJob\bin\Debug\RivalityCronJob.InstallLog
+Installing service RivalityCronJob...
+Service RivalityCronJob has been successfully installed.
+Creating EventLog source RivalityCronJob in log Application...
+Committing assembly 'D:\Internet Resource\PHP\Jahangir Project\Rivality Cron Job\RivalityCronJob\RivalityCronJob\bin\Debug\RivalityCronJob.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Internet Resource\PHP\Jahangir Project\Rivality Cron Job\RivalityCronJob\RivalityCronJob\bin\Debug\RivalityCronJob.exe
+   logfile = D:\Internet Resource\PHP\Jahangir Project\Rivality Cron Job\RivalityCronJob\RivalityCronJob\bin\Debug\RivalityCronJob.InstallLog
